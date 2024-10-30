@@ -2,7 +2,7 @@ body{
 	background-color: #fdfd96;
 }
 
-.container{
+div{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
@@ -11,7 +11,7 @@ body{
 
 .avatar{
 	display: flex;
-	height: auto;
+	width: 100%;
 	justify-content: center;
 	background-color: red;
 }
@@ -22,6 +22,7 @@ body{
 
 .intro{
 	display: flex;
+	width: 100%;
 	flex-wrap: nowrap;
 	overflow: hidden;
 	text-align: center;

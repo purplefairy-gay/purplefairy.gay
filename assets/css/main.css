@@ -30,7 +30,7 @@ p, h1{
 .info{
 	display: flex;
 	flex-direction: column;
-	justify-content: space-around;
+	justify-content: space-between;
 	margin-top: 15%;
 	margin-bottom: 30%;
 }

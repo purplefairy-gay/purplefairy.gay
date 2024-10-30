@@ -2,15 +2,11 @@ body {
 	background-color: #fdfd96;
 }
 
-.mypage {
+.home {
 	display: flex;
 	align-items: center;
 	height: 100vh;
 	width: auto;
-}
-
-.home {
-	display: flex;
 	flex-direction: row;
 }
 

@@ -13,7 +13,7 @@ body{
 	justify-content: space-around;
 }
 
-.container p{
+.intro{
 	width: 100%;
 	flex-wrap: nowrap;
 	overflow: hidden;

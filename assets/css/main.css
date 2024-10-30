@@ -27,16 +27,14 @@ p, h1{
 
 .imgagefeesh {
 	max-height: 75vh;
-	margin-left: -25%;
 }
 
 .info{
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
-	margin-top: 15%;
-	margin-bottom: 30%;
-	margin-left: -15%;
+	margin-top: 25%;
+	margin-bottom: 25%;
 }
 
 .home-description{
@@ -75,9 +73,5 @@ h1{
 	.body, .imgagefeesh{
 		max-width: 600px;
 		height: auto;
-	}
-
-	.imgagefeesh, .info{
-		margin-left: 0;
 	}
   }

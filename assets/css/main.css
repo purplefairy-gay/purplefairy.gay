@@ -68,12 +68,7 @@ h1{
 		flex-direction: column;
 	}
 
-	.imgagefeesh{
-		max-height: 50%;
-		max-width: auto;
-	}
-
-	.body{
+	.body, .imgagefeesh{
 		max-width: 600px;
 		height: auto;
 	}

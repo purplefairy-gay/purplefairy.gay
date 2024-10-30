@@ -2,22 +2,20 @@ body{
 	background-color: #fdfd96;
 }
 
-div{
+.container{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
-	align-content: space-around;
+	padding: 2%;
 }
 
 .avatar{
 	display: flex;
-	width: 100%;
-	justify-content: center;
-	background-color: red;
+	height: auto;
 }
 
 .avatar-image{
-	max-width: 40%;
+	width: 40vh;
 }
 
 .intro{

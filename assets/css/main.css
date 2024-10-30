@@ -70,5 +70,6 @@ h1{
 
 	.body, .imgagefeesh{
 		max-width: 600px;
+		height: auto;
 	}
   }

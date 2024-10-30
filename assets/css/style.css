@@ -2,7 +2,7 @@ body{
 	background-color: #fdfd96;
 }
 
-.container, .avatar, img{
+.avatar{
 	width: 40%;
 	height: auto;
 }
@@ -13,7 +13,7 @@ body{
 	justify-content: space-around;
 }
 
-.container, .intro, p{
+.container p{
 	width: 100%;
 	flex-wrap: nowrap;
 	overflow: hidden;

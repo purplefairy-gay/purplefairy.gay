@@ -2,6 +2,10 @@ body {
 	background-color: #fdfd96;
 }
 
+.index{
+	margin: 5%;
+}
+
 .home {
 	display: flex;
 	flex-direction: row;

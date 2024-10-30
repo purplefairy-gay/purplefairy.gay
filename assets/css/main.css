@@ -7,9 +7,17 @@ body {
   align-items: center;
 }
 
+.imagecontainer{
+	min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  max-height: fit-content;
+}
+
 .home {
 	display: flex;
 	flex-direction: row;
+	margin-top: 5em;
 }
 
 p, h1{

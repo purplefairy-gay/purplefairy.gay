@@ -2,16 +2,17 @@ body {
 	background-color: #fdfd96;
 }
 
+.main{
+	display: flex;
+  align-items: center;
+}
+
 .home {
 	display: flex;
-	align-items: center;
-	height: 100vh;
-	width: auto;
 	flex-direction: row;
 }
 
-p,
-h1 {
+p, h1{
 	overflow: hidden;
 }
 
@@ -19,7 +20,7 @@ h1 {
 	width: 100%;
 }
 
-.info {
+.info{
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
@@ -27,14 +28,14 @@ h1 {
 	margin-bottom: 25%;
 }
 
-.home-description {
+.home-description{
 	font-size: 20px;
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-h1 {
+h1{
 	font-weight: bold;
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .linktree {

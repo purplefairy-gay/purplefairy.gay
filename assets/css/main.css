@@ -25,7 +25,7 @@ p, h1{
 }
 
 .img-rabbit {
-	width: 100%;
+	max-height: 100vh;
 }
 
 .info{

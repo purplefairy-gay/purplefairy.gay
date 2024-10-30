@@ -1,8 +1,21 @@
 body{
-	color: #fdfd96;
+	background-color: #fdfd96;
 }
 
-.avatar{
-	max-width: 40%;
-	text-align: left;
+.container, .avatar, img{
+	width: 40%;
+	height: auto;
 }
+
+.container{
+	flex-direction: row;
+	display: flex;
+	justify-content: space-around;
+}
+
+.container, .intro, p{
+	width: 100%;
+	flex-wrap: nowrap;
+	overflow: hidden;
+}
+

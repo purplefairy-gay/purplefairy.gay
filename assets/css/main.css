@@ -70,7 +70,7 @@ h1{
 		flex-direction: column;
 	}
 
-	.body .info, .imgagefeesh{
+	.body, .info, .imgagefeesh{
 		max-width: 100%;
 		height: auto;
 		display: flex;
